@@ -31,11 +31,11 @@ While I may have more projects on game, I'm also constantly learning software de
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
-      <br>JavaScript
+      <br>JS
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="48" height="48" />
-      <br>TypeScript
+      <br>TS
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="48" height="48" />
