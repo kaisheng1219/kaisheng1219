@@ -16,7 +16,7 @@ While I may have more projects on game, I'm also constantly learning software de
 <p align="center">
   <a href="mailto:kaisheng62@yahoo.com?subject=[GitHub]%20🔥%20Get%20In%20Touch&"><img src="https://img.shields.io/badge/e‑mail-E4405F.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/kaisheng1219"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/mrstandu33"><img src="https://img.shields.io/badge/stackoverflow-D14836.svg?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/22990975/kai-sheng"><img src="https://img.shields.io/badge/stackoverflow-D14836.svg?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
   <a href="https://leetcode.com/kaisheng1219"><img src="https://img.shields.io/badge/leetcode-ec8b41.svg?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://youtube.com/playlist?list=PLFB68bAJUDfGQpNh0ADlADH3pzTgLERwP&si=J-EzeHxoDTbChSFQ"><img src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
