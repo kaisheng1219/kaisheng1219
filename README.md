@@ -54,15 +54,15 @@ While I may have more projects on game, I'm also constantly learning software de
       <br>PHP
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby" />
-      <br>Ruby
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Ruby" />
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
       <br>Postgres
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="linux" />
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="spring" />
       <br>Spring
     </td>
   <tr>
@@ -91,16 +91,16 @@ While I may have more projects on game, I'm also constantly learning software de
       <br>Solid
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="kubernetes" />
+      <br>Kubernetes
     </td>
     <td align="center" width="96"> 
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
