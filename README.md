@@ -26,23 +26,28 @@ While I may have more projects on game, I'm also constantly learning software de
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=java" alt="icon" width="48" height="48" />
+<!--       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="48" height="48" /> -->
       <br>Java
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="48" height="48" />
+<!--       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" /> -->
       <br>JS
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="48" height="48" />
+<!--       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="48" height="48" /> -->
       <br>TS
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="48" height="48" />
+<!--       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="48" height="48" /> -->
       <br>C++
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=cs" alt="icon" width="48" height="48" />
+<!--       <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="48" height="48" /> -->
       <br>C#
     </td>
     <td align="center" width="96">
@@ -75,11 +80,13 @@ While I may have more projects on game, I'm also constantly learning software de
       <br>Flutter
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" />
+<!--       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" /> -->
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=gatsby" width="48" height="48" />
+<!--       <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" width="48" height="48" /> -->
       <br>Gatsby
     </td>
     <td align="center"  width="96">
